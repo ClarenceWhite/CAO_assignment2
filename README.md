@@ -5,3 +5,4 @@ reference:
 - https://docs.python.org/3/library/multiprocessing.html
 - https://stackoverflow.com/questions/20039659/python-multiprocessings-pool-process-limit
 - https://medium.datadriveninvestor.com/python-multiprocessing-pool-vs-process-comparative-analysis-6c03c5b54eec
+- https://ark.intel.com/content/www/us/en/ark/products/88967/intel-core-i76700hq-processor-6m-cache-up-to-3-50-ghz.html
