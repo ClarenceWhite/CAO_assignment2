@@ -1,4 +1,5 @@
 # CAO_assignment2
+## This is an assignment for computer architecture course, the main content is to test the effect of the number of cpu cores on the processing speed using the python multithreading package.
 reference:
 - https://lih-verma.medium.com/multi-processing-in-python-process-vs-pool-5caf0f67eb2b
 - https://towardsdatascience.com/how-to-use-the-multiprocessing-package-in-python3-a1c808415ec2
